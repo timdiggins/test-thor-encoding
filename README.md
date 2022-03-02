@@ -1,6 +1,6 @@
 Reproduction for: https://github.com/rails/thor/issues/776
 
-Expected the thorfiles like ruby (since 2.0) would have default encoding of UTF-8
+Expected that thorfiles like ruby (since 2.0) would have default encoding of UTF-8
 
 But actually they have ASCII-8BIT.
 
